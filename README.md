@@ -1,62 +1,53 @@
-# Diego Vargas Urzagaste
+<img alt="Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Diego</h2>
 
-**Full Stack Developer** · Tarija, Bolivia
+### 👨🏻‍💻 &nbsp;About Me
 
-I turn business problems into working software.  
-I specialize in backend systems — architecture, databases, business logic — but I ship the full product when needed.
+💡 &nbsp;I like to explore new technologies and build software that solves real business problems.\
+🎓 &nbsp;I'm currently studying Systems Engineering at Universidad Privada Domingo Savio, Tarija, Bolivia.\
+🌱 &nbsp;I'm focused on backend architecture, Clean Architecture patterns, and cloud-native development.\
+⚡ &nbsp;I took LION from an initial client meeting to a live production system — reducing a 1-hour billing process to 15 minutes.\
+💬 &nbsp;Feel free to reach out to me for freelance projects or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at diego.v.u1999@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Have a look at my [Portfolio](https://diego-vargas.vercel.app) for more details about me and my work!
 
-Currently studying Systems Engineering at UPDS while building real production software for clients.
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
----
+### 🛠 &nbsp;Tech Stack
 
-### Tech Stack
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)\
+![React](https://img.shields.io/badge/-React_19-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-05122A?style=flat&logo=dotnet)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)\
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL_Server-05122A?style=flat&logo=microsoftsqlserver)\
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power_BI-05122A?style=flat&logo=powerbi)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+### ⚙️ &nbsp;GitHub Analytics
 
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-### GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=temps-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temps-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<p align="center">
+<a href="https://github.com/temps-code">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=temps-code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=temps-code&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
----
+### 🤝🏻 &nbsp;Connect with Me
 
-### Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [LION Business Manager](https://github.com/temps-code/lion-business-manager) | Integral management system for a design agency — reduced billing from 1h to 15min | React 19, TypeScript, Supabase, PostgreSQL |
-| [StackWise](https://github.com/temps-code/StackWise) | Developer-hiring platform via real coding challenges | React Native, TypeScript, Supabase |
-| [E-commerce B2C](https://github.com/temps-code/ecommerce-b2c) | Full B2C store with roles, dashboard, and PDF reports | Laravel 12, PHP, MySQL |
-| [Brecha Digital BI](https://github.com/temps-code/brecha-digital-bi) | BI pipeline connecting academic data with labor market demand | Python, T-SQL, Power BI |
-
----
-
-### Links
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-diego--vargas.vercel.app-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://diego-vargas.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Vargas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-vargas-urzagaste-40411a3bb/)
-[![Email](https://img.shields.io/badge/Email-diego.v.u1999@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:diego.v.u1999@gmail.com)
+<p align="center">
+<a href="https://diego-vargas.vercel.app"><img src="https://img.shields.io/badge/-diego--vargas.vercel.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/diego-vargas-urzagaste-40411a3bb/"><img src="https://img.shields.io/badge/-Diego%20Vargas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:diego.v.u1999@gmail.com"><img src="https://img.shields.io/badge/-diego.v.u1999@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
